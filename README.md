@@ -2,12 +2,11 @@
 
 A simple cross platform (iOS and Android) React Native quiz app. This example was put together for [React Native by Example](https://www.reactnativebyexample.com/). Get started learning & mastering React Native for free!
 
-![Index Screen](./assets/index.png)
-![Quiz Screen](./assets/quiz.png)
+
 
 ### Installation
 
-- `git clone https://github.com/sadiqabubakar526/NATIVE-QUIZ`
+- `git clone https://github.com/sadiqabubakar526/Native-Quiz`
 - `yarn install`/`npm install`
 
 ### Running
